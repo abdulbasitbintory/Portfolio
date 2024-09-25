@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/abdulbasitbintory/abs/blob/main/banner/n2.PNG)
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan.</h3>
 
